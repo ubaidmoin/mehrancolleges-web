@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"file": "argon-design-system-react.css",
+	"file": "mehrancolleges.css",
 	"sources": [
 		"../scss/argon-design-system-react.scss",
 		"../../../node_modules/bootstrap/scss/_functions.scss",
